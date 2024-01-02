@@ -1,0 +1,2 @@
+use the command python manage.py runserver
+to run the program
